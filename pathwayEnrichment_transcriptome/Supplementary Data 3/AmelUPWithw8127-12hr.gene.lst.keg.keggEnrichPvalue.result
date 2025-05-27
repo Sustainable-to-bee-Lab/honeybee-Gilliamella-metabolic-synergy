@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 04812 Cytoskeleton proteins [BR:ame04812]	17	0.00638560369594803
 00536 Glycosaminoglycan binding proteins [BR:ame00536]	7	0.000399957177111876
 00520 Amino sugar and nucleotide sugar metabolism [PATH:ame00520]	6	0.00583832900856663
@@ -5,3 +6,12 @@
 01002 Peptidases and inhibitors [BR:ame01002]	17	0.00534070825917055
 99980 Enzymes with EC numbers	10	0.00562137140382778
 00537 Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:ame00537]	5	0.00116162965063852
+=======
+04812 Cytoskeleton proteins [BR:ame04812]	17	0.00638560369594803
+00536 Glycosaminoglycan binding proteins [BR:ame00536]	7	0.000399957177111876
+00520 Amino sugar and nucleotide sugar metabolism [PATH:ame00520]	6	0.00583832900856663
+04990 Domain-containing proteins not elsewhere classified [BR:ame04990]	18	0.000202111193285801
+01002 Peptidases and inhibitors [BR:ame01002]	17	0.00534070825917055
+99980 Enzymes with EC numbers	10	0.00562137140382778
+00537 Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:ame00537]	5	0.00116162965063852
+>>>>>>> ba259a4ccab6d753b81471149469a631874d18bf
