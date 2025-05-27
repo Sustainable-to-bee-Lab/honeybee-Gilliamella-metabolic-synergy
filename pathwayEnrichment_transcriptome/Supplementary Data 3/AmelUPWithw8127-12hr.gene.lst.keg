@@ -1,0 +1,1113 @@
+A09100 Metabolism
+B  09101 Carbohydrate metabolism
+C    00010 Glycolysis / Gluconeogenesis [PATH:ame00010]
+D      412843 phosphoenolpyruvate carboxykinase [GTP] isoform X2	K01596 E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+C    00020 Citrate cycle (TCA cycle) [PATH:ame00020]
+D      412843 phosphoenolpyruvate carboxykinase [GTP] isoform X2	K01596 E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+C    00030 Pentose phosphate pathway [PATH:ame00030]
+D      551448 ribose-phosphate pyrophosphokinase 1 isoform X4	K00948 PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+D      551044 glucose dehydrogenase [FAD	K00115 GLD; glucose 1-dehydrogenase (FAD, quinone) [EC:1.1.5.9]
+C    00040 Pentose and glucuronate interconversions [PATH:ame00040]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+D      413356 UDP-glucose 6-dehydrogenase	K00012 UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+C    00051 Fructose and mannose metabolism [PATH:ame00051]
+D      413697 uncharacterized protein LOC413697	K00863 DAK; triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15]
+C    00052 Galactose metabolism [PATH:ame00052]
+C    00053 Ascorbate and aldarate metabolism [PATH:ame00053]
+D      413356 UDP-glucose 6-dehydrogenase	K00012 UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+C    00500 Starch and sucrose metabolism [PATH:ame00500]
+D      406114 alpha-amylase precursor	K01176 AMY; alpha-amylase [EC:3.2.1.1]
+D      410484 trehalase isoform X2	K01194 TREH; alpha,alpha-trehalase [EC:3.2.1.28]
+C    00520 Amino sugar and nucleotide sugar metabolism [PATH:ame00520]
+D      100577156 chitinase-3-like protein 1	K01183 E3.2.1.14; chitinase [EC:3.2.1.14]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      551847 N-acetyl-D-glucosamine kinase isoform X2	K00884 NAGK; N-acetylglucosamine kinase [EC:2.7.1.59]
+D      406107 Gfat2; glutamine:fructose-6-phosphate aminotransferase 1	K00820 glmS; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+D      551581 N-acetylgalactosamine kinase isoform X1	K18674 GALK2; N-acetylgalactosamine kinase [EC:2.7.1.157]
+D      413356 UDP-glucose 6-dehydrogenase	K00012 UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+C    00620 Pyruvate metabolism [PATH:ame00620]
+D      410042 glyoxylate reductase/hydroxypyruvate reductase	K00049 GRHPR; glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]
+D      412843 phosphoenolpyruvate carboxykinase [GTP] isoform X2	K01596 E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+C    00630 Glyoxylate and dicarboxylate metabolism [PATH:ame00630]
+D      410042 glyoxylate reductase/hydroxypyruvate reductase	K00049 GRHPR; glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]
+C    00640 Propanoate metabolism [PATH:ame00640]
+C    00650 Butanoate metabolism [PATH:ame00650]
+C    00660 C5-Branched dibasic acid metabolism
+C    00562 Inositol phosphate metabolism [PATH:ame00562]
+D      411563 myotubularin-related protein 2 isoform X2	K18081 MTMR1_2; myotubularin-related protein 1/2 [EC:3.1.3.64 3.1.3.95]
+B  09102 Energy metabolism
+C    00190 Oxidative phosphorylation [PATH:ame00190]
+D      412810 V-type proton ATPase 116 kDa subunit a isoform X1	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      100578006 inorganic pyrophosphatase	K11726 NURF38; nucleosome-remodeling factor 38 kDa subunit [EC:3.6.1.1]
+C    00195 Photosynthesis
+C    00196 Photosynthesis - antenna proteins
+C    00710 Carbon fixation in photosynthetic organisms
+C    00720 Carbon fixation pathways in prokaryotes
+C    00680 Methane metabolism
+C    00910 Nitrogen metabolism [PATH:ame00910]
+C    00920 Sulfur metabolism [PATH:ame00920]
+D      413048 bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 isoform X2	K13811 PAPSS; 3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]
+B  09103 Lipid metabolism
+C    00061 Fatty acid biosynthesis [PATH:ame00061]
+D      412541 long-chain-fatty-acid--CoA ligase 1 isoform X3	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+C    00062 Fatty acid elongation [PATH:ame00062]
+C    00071 Fatty acid degradation [PATH:ame00071]
+D      412541 long-chain-fatty-acid--CoA ligase 1 isoform X3	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+C    00073 Cutin, suberine and wax biosynthesis
+C    00100 Steroid biosynthesis [PATH:ame00100]
+C    00120 Primary bile acid biosynthesis
+C    00121 Secondary bile acid biosynthesis
+C    00140 Steroid hormone biosynthesis
+C    00561 Glycerolipid metabolism [PATH:ame00561]
+D      413697 uncharacterized protein LOC413697	K00863 DAK; triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15]
+D      413071 eye-specific diacylglycerol kinase isoform X1	K00901 dgkA; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+C    00564 Glycerophospholipid metabolism [PATH:ame00564]
+D      413071 eye-specific diacylglycerol kinase isoform X1	K00901 dgkA; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+D      410270 acetylcholinesterase	K01049 ACHE; acetylcholinesterase [EC:3.1.1.7]
+C    00565 Ether lipid metabolism [PATH:ame00565]
+D      725343 alkyldihydroxyacetonephosphate synthase	K00803 AGPS; alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26]
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+C    00600 Sphingolipid metabolism [PATH:ame00600]
+D      409708 glucosylceramidase-like isoform X2	K01201 GBA; glucosylceramidase [EC:3.2.1.45]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+C    00590 Arachidonic acid metabolism [PATH:ame00590]
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+D      100577149 15-hydroxyprostaglandin dehydrogenase [NAD(+)]	K00069 HPGD; 15-hydroxyprostaglandin dehydrogenase (NAD) [EC:1.1.1.141]
+C    00591 Linoleic acid metabolism
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+C    00592 alpha-Linolenic acid metabolism [PATH:ame00592]
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+C    01040 Biosynthesis of unsaturated fatty acids [PATH:ame01040]
+D      100576797 acyl-CoA Delta(11) desaturase isoform X1	K00507 SCD; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]
+B  09104 Nucleotide metabolism
+C    00230 Purine metabolism [PATH:ame00230]
+D      551448 ribose-phosphate pyrophosphokinase 1 isoform X4	K00948 PRPS; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+D      726069 atrial natriuretic peptide receptor 1 isoform X4	K12323 ANPRA; atrial natriuretic peptide receptor A [EC:4.6.1.2]
+D      724603 receptor-type guanylate cyclase Gyc76C-like	K01769 E4.6.1.2; guanylate cyclase, other [EC:4.6.1.2]
+D      410379 LOW QUALITY PROTEIN: uncharacterized protein LOC410379	K13761 PDE9; high affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9 [EC:3.1.4.35]
+D      413048 bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 isoform X2	K13811 PAPSS; 3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]
+C    00240 Pyrimidine metabolism [PATH:ame00240]
+B  09105 Amino acid metabolism
+C    00250 Alanine, aspartate and glutamate metabolism [PATH:ame00250]
+D      406107 Gfat2; glutamine:fructose-6-phosphate aminotransferase 1	K00820 glmS; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+C    00260 Glycine, serine and threonine metabolism [PATH:ame00260]
+D      410042 glyoxylate reductase/hydroxypyruvate reductase	K00049 GRHPR; glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]
+D      412670 probable phosphoserine aminotransferase	K00831 serC; phosphoserine aminotransferase [EC:2.6.1.52]
+C    00270 Cysteine and methionine metabolism [PATH:ame00270]
+D      551102 S-adenosylmethionine synthase isoform X1	K00789 metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+D      408368 adenosylhomocysteinase	K01251 AHCY; adenosylhomocysteinase [EC:3.13.2.1]
+D      412670 probable phosphoserine aminotransferase	K00831 serC; phosphoserine aminotransferase [EC:2.6.1.52]
+C    00280 Valine, leucine and isoleucine degradation [PATH:ame00280]
+C    00290 Valine, leucine and isoleucine biosynthesis [PATH:ame00290]
+C    00300 Lysine biosynthesis
+C    00310 Lysine degradation [PATH:ame00310]
+C    00220 Arginine biosynthesis [PATH:ame00220]
+C    00330 Arginine and proline metabolism [PATH:ame00330]
+D      410583 ornithine aminotransferase	K00819 rocD; ornithine--oxo-acid transaminase [EC:2.6.1.13]
+D      412948 delta-1-pyrroline-5-carboxylate synthase isoform X1	K12657 ALDH18A1; delta-1-pyrroline-5-carboxylate synthetase [EC:2.7.2.11 1.2.1.41]
+C    00340 Histidine metabolism [PATH:ame00340]
+C    00350 Tyrosine metabolism [PATH:ame00350]
+C    00360 Phenylalanine metabolism [PATH:ame00360]
+C    00380 Tryptophan metabolism [PATH:ame00380]
+C    00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ame00400]
+B  09106 Metabolism of other amino acids
+C    00410 beta-Alanine metabolism [PATH:ame00410]
+C    00430 Taurine and hypotaurine metabolism [PATH:ame00430]
+C    00440 Phosphonate and phosphinate metabolism [PATH:ame00440]
+C    00450 Selenocompound metabolism [PATH:ame00450]
+D      413048 bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 isoform X2	K13811 PAPSS; 3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]
+C    00460 Cyanoamino acid metabolism
+C    00470 D-Amino acid metabolism [PATH:ame00470]
+C    00480 Glutathione metabolism [PATH:ame00480]
+D      410627 putative aminopeptidase W07G4.4 isoform X1	K01255 CARP; leucyl aminopeptidase [EC:3.4.11.1]
+D      551180 aminopeptidase N	K11140 ANPEP; aminopeptidase N [EC:3.4.11.2]
+B  09107 Glycan biosynthesis and metabolism
+C    00510 N-Glycan biosynthesis [PATH:ame00510]
+C    00513 Various types of N-glycan biosynthesis [PATH:ame00513]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      411490 probable beta-hexosaminidase fdl isoform X1	K20730 FDL; beta-hexosaminidase Fdl [EC:3.2.1.52]
+C    00512 Mucin type O-glycan biosynthesis [PATH:ame00512]
+D      410470 putative polypeptide N-acetylgalactosaminyltransferase 9 isoform X1	K00710 GALNT; polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+C    00515 Mannose type O-glycan biosynthesis [PATH:ame00515]
+C    00514 Other types of O-glycan biosynthesis [PATH:ame00514]
+D      410470 putative polypeptide N-acetylgalactosaminyltransferase 9 isoform X1	K00710 GALNT; polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+C    00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate [PATH:ame00532]
+D      550998 carbohydrate sulfotransferase 11	K01017 CHST11; chondroitin 4-sulfotransferase 11 [EC:2.8.2.5]
+C    00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin [PATH:ame00534]
+C    00533 Glycosaminoglycan biosynthesis - keratan sulfate
+C    00531 Glycosaminoglycan degradation [PATH:ame00531]
+D      551758 arylsulfatase B isoform X1	K01135 ARSB; arylsulfatase B [EC:3.1.6.12]
+D      552073 arylsulfatase B	K01135 ARSB; arylsulfatase B [EC:3.1.6.12]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+C    00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis [PATH:ame00563]
+C    00601 Glycosphingolipid biosynthesis - lacto and neolacto series [PATH:ame00601]
+C    00603 Glycosphingolipid biosynthesis - globo and isoglobo series [PATH:ame00603]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+C    00604 Glycosphingolipid biosynthesis - ganglio series [PATH:ame00604]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+C    00511 Other glycan degradation [PATH:ame00511]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      411490 probable beta-hexosaminidase fdl isoform X1	K20730 FDL; beta-hexosaminidase Fdl [EC:3.2.1.52]
+D      409708 glucosylceramidase-like isoform X2	K01201 GBA; glucosylceramidase [EC:3.2.1.45]
+C    00540 Lipopolysaccharide biosynthesis
+C    00542 O-Antigen repeat unit biosynthesis
+C    00541 O-Antigen nucleotide sugar biosynthesis
+C    00550 Peptidoglycan biosynthesis
+C    00552 Teichoic acid biosynthesis
+C    00571 Lipoarabinomannan (LAM) biosynthesis
+C    00572 Arabinogalactan biosynthesis - Mycobacterium
+C    00543 Exopolysaccharide biosynthesis
+B  09108 Metabolism of cofactors and vitamins
+C    00730 Thiamine metabolism [PATH:ame00730]
+D      551687 uncharacterized protein LOC551687	K01077 E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]
+C    00740 Riboflavin metabolism [PATH:ame00740]
+C    00750 Vitamin B6 metabolism [PATH:ame00750]
+D      412670 probable phosphoserine aminotransferase	K00831 serC; phosphoserine aminotransferase [EC:2.6.1.52]
+C    00760 Nicotinate and nicotinamide metabolism [PATH:ame00760]
+C    00770 Pantothenate and CoA biosynthesis [PATH:ame00770]
+C    00780 Biotin metabolism [PATH:ame00780]
+C    00785 Lipoic acid metabolism [PATH:ame00785]
+C    00790 Folate biosynthesis [PATH:ame00790]
+D      551687 uncharacterized protein LOC551687	K01077 E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]
+C    00670 One carbon pool by folate [PATH:ame00670]
+D      551401 cytosolic 10-formyltetrahydrofolate dehydrogenase isoform X2	K00289 ALDH1L; formyltetrahydrofolate dehydrogenase [EC:1.5.1.6]
+C    00830 Retinol metabolism [PATH:ame00830]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+C    00860 Porphyrin metabolism [PATH:ame00860]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+C    00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ame00130]
+B  09109 Metabolism of terpenoids and polyketides
+C    00900 Terpenoid backbone biosynthesis [PATH:ame00900]
+C    00902 Monoterpenoid biosynthesis
+C    00909 Sesquiterpenoid and triterpenoid biosynthesis
+C    00904 Diterpenoid biosynthesis
+C    00906 Carotenoid biosynthesis
+C    00905 Brassinosteroid biosynthesis
+C    00981 Insect hormone biosynthesis [PATH:ame00981]
+C    00908 Zeatin biosynthesis
+C    00903 Limonene degradation
+C    00907 Pinene, camphor and geraniol degradation
+C    01052 Type I polyketide structures
+C    00522 Biosynthesis of 12-, 14- and 16-membered macrolides
+C    01051 Biosynthesis of ansamycins
+C    01059 Biosynthesis of enediyne antibiotics
+C    01056 Biosynthesis of type II polyketide backbone
+C    01057 Biosynthesis of type II polyketide products
+C    00253 Tetracycline biosynthesis
+C    00523 Polyketide sugar unit biosynthesis
+C    01054 Nonribosomal peptide structures
+C    01053 Biosynthesis of siderophore group nonribosomal peptides
+C    01055 Biosynthesis of vancomycin group antibiotics
+B  09110 Biosynthesis of other secondary metabolites
+C    00940 Phenylpropanoid biosynthesis
+C    00945 Stilbenoid, diarylheptanoid and gingerol biosynthesis
+C    00941 Flavonoid biosynthesis
+C    00944 Flavone and flavonol biosynthesis
+C    00942 Anthocyanin biosynthesis
+C    00943 Isoflavonoid biosynthesis
+C    00946 Degradation of flavonoids
+C    00901 Indole alkaloid biosynthesis
+C    00403 Indole diterpene alkaloid biosynthesis
+C    00950 Isoquinoline alkaloid biosynthesis
+C    00960 Tropane, piperidine and pyridine alkaloid biosynthesis
+C    00996 Biosynthesis of various alkaloids
+C    00232 Caffeine metabolism [PATH:ame00232]
+C    00965 Betalain biosynthesis
+C    00966 Glucosinolate biosynthesis
+C    00402 Benzoxazinoid biosynthesis
+C    00311 Penicillin and cephalosporin biosynthesis
+C    00332 Carbapenem biosynthesis
+C    00261 Monobactam biosynthesis
+D      413048 bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 isoform X2	K13811 PAPSS; 3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]
+C    00331 Clavulanic acid biosynthesis
+C    00521 Streptomycin biosynthesis
+C    00524 Neomycin, kanamycin and gentamicin biosynthesis
+C    00525 Acarbose and validamycin biosynthesis
+C    00401 Novobiocin biosynthesis
+C    00404 Staurosporine biosynthesis
+C    00405 Phenazine biosynthesis
+C    00333 Prodigiosin biosynthesis
+C    00254 Aflatoxin biosynthesis
+C    00998 Biosynthesis of various antibiotics
+C    00999 Biosynthesis of various plant secondary metabolites
+C    00997 Biosynthesis of various other secondary metabolites
+B  09111 Xenobiotics biodegradation and metabolism
+C    00362 Benzoate degradation
+C    00627 Aminobenzoate degradation
+C    00364 Fluorobenzoate degradation
+C    00625 Chloroalkane and chloroalkene degradation
+C    00361 Chlorocyclohexane and chlorobenzene degradation
+C    00623 Toluene degradation
+C    00622 Xylene degradation
+C    00633 Nitrotoluene degradation
+C    00642 Ethylbenzene degradation
+C    00643 Styrene degradation
+C    00791 Atrazine degradation
+C    00930 Caprolactam degradation
+C    00363 Bisphenol degradation
+C    00621 Dioxin degradation
+C    00626 Naphthalene degradation
+C    00624 Polycyclic aromatic hydrocarbon degradation
+C    00365 Furfural degradation
+C    00984 Steroid degradation
+C    00980 Metabolism of xenobiotics by cytochrome P450 [PATH:ame00980]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+C    00982 Drug metabolism - cytochrome P450 [PATH:ame00982]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+C    00983 Drug metabolism - other enzymes [PATH:ame00983]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+B  09112 Not included in regular maps
+C    09113 Global maps only
+A09120 Genetic Information Processing
+B  09121 Transcription
+C    03020 RNA polymerase [PATH:ame03020]
+D      725552 DNA-directed RNA polymerase III subunit RPC1 isoform X2	K03018 RPC1; DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+C    03022 Basal transcription factors [PATH:ame03022]
+C    03040 Spliceosome [PATH:ame03040]
+D      727008 probable ATP-dependent RNA helicase DDX46	K12811 DDX46; ATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13]
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+B  09122 Translation
+C    03010 Ribosome [PATH:ame03010]
+D      725647 40S ribosomal protein S6	K02991 RP-S6e; small subunit ribosomal protein S6e
+D      408526 60S ribosomal protein L4	K02930 RP-L4e; large subunit ribosomal protein L4e
+D      113219341 small subunit ribosomal RNA	K01979 SSUrRNA; small subunit 18S ribosomal RNA
+D      113219383 large subunit ribosomal RNA	K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+C    00970 Aminoacyl-tRNA biosynthesis [PATH:ame00970]
+C    03013 Nucleocytoplasmic transport [PATH:ame03013]
+D      410972 nuclear pore complex protein Nup54 isoform X1	K14308 NUP54; nuclear pore complex protein Nup54
+D      410343 nuclear pore complex protein Nup93	K14309 NUP93; nuclear pore complex protein Nup93
+D      413940 importin-9 isoform X1	K20224 IPO9; importin-9
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      551707 RNA-binding protein with serine-rich domain 1	K14325 RNPS1; RNA-binding protein with serine-rich domain 1
+C    03015 mRNA surveillance pathway [PATH:ame03015]
+D      551707 RNA-binding protein with serine-rich domain 1	K14325 RNPS1; RNA-binding protein with serine-rich domain 1
+C    03008 Ribosome biogenesis in eukaryotes [PATH:ame03008]
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      113219341 small subunit ribosomal RNA	K01979 SSUrRNA; small subunit 18S ribosomal RNA
+D      113219383 large subunit ribosomal RNA	K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+B  09123 Folding, sorting and degradation
+C    03060 Protein export [PATH:ame03060]
+C    04141 Protein processing in endoplasmic reticulum [PATH:ame04141]
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      724405 protein lethal(2)essential for life	K09542 CRYAB; crystallin, alpha B
+C    04130 SNARE interactions in vesicular transport [PATH:ame04130]
+C    04120 Ubiquitin mediated proteolysis [PATH:ame04120]
+C    04122 Sulfur relay system [PATH:ame04122]
+C    03050 Proteasome [PATH:ame03050]
+D      409699 26S proteasome non-ATPase regulatory subunit 1-like	K03032 PSMD1; 26S proteasome regulatory subunit N2
+C    03018 RNA degradation [PATH:ame03018]
+D      100578925 protein Tob1	K14443 TOB; protein Tob/BTG
+D      409384 heat shock protein 60A	K04077 groEL; chaperonin GroEL [EC:5.6.1.7]
+B  09124 Replication and repair
+C    03030 DNA replication [PATH:ame03030]
+C    03410 Base excision repair [PATH:ame03410]
+C    03420 Nucleotide excision repair [PATH:ame03420]
+C    03430 Mismatch repair [PATH:ame03430]
+C    03440 Homologous recombination [PATH:ame03440]
+C    03450 Non-homologous end-joining [PATH:ame03450]
+D      102654398 uncharacterized protein LOC102654398	K10886 XRCC4; DNA-repair protein XRCC4
+C    03460 Fanconi anemia pathway [PATH:ame03460]
+B  09126 Chromosome
+C    03082 ATP-dependent chromatin remodeling [PATH:ame03082]
+D      551071 bromodomain adjacent to zinc finger domain protein 2B isoform X9	K26167 BAZ2B; bromodomain adjacent to zinc finger domain protein 2B
+D      100578006 inorganic pyrophosphatase	K11726 NURF38; nucleosome-remodeling factor 38 kDa subunit [EC:3.6.1.1]
+D      413318 metastasis-associated protein MTA3 isoform X1	K11660 MTA; metastasis-associated protein MTA
+C    03083 Polycomb repressive complex [PATH:ame03083]
+B  09125 Information processing in viruses
+C    03230 Viral genome structure
+C    03240 Viral replication
+C    03250 Viral life cycle - HIV-1 [PATH:ame03250]
+D      409928 RNA polymerase II elongation factor Ell isoform X2	K15183 ELL; RNA polymerase II elongation factor ELL
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+C    03260 Virion - Human immunodeficiency virus
+C    03271 Virion - Rotavirus
+C    03262 Virion - Coronavirus
+C    03261 Virion - Influenza virus
+C    03263 Virion - Enterovirus
+C    03264 Virion - Flavivirus
+C    03265 Virion - Ebolavirus and Lyssavirus [PATH:ame03265]
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+C    03266 Virion - Herpesvirus [PATH:ame03266]
+C    03268 Virion - Orthopoxvirus
+C    03267 Virion - Adenovirus
+C    03259 Virion - Bacteriophages T4 and T7
+C    03258 Virion - Bacteriophage lambda
+A09130 Environmental Information Processing
+B  09131 Membrane transport
+C    02010 ABC transporters [PATH:ame02010]
+D      409897 probable multidrug resistance-associated protein lethal(2)03659 isoform X1	K05673 ABCC4; ATP-binding cassette, subfamily C (CFTR/MRP), member 4
+D      411685 ATP-binding cassette sub-family D member 1	K05676 ABCD2; ATP-binding cassette, subfamily D (ALD), member 2 [EC:7.6.2.4]
+C    02060 Phosphotransferase system (PTS)
+C    03070 Bacterial secretion system
+B  09132 Signal transduction
+C    02020 Two-component system
+C    04010 MAPK signaling pathway
+C    04013 MAPK signaling pathway - fly [PATH:ame04013]
+D      725117 protein sprouty homolog 2 isoform X2	K17383 SPRY2; protein sprouty homolog 2
+D      412916 ETS-like protein pointed isoform X1	K02678 ETS1; C-ets-1
+D      410918 protein tramtrack	K09237 TTK; tramtrack
+D      725245 protein eiger isoform X2	K16678 EGR; eiger
+C    04016 MAPK signaling pathway - plant
+C    04011 MAPK signaling pathway - yeast
+C    04012 ErbB signaling pathway
+C    04014 Ras signaling pathway
+C    04015 Rap1 signaling pathway
+C    04310 Wnt signaling pathway [PATH:ame04310]
+D      413502 protein Wnt-1	K03209 WNT1; wingless-type MMTV integration site family, member 1
+D      413501 protein Wnt-6 isoform X1	K00445 WNT6; wingless-type MMTV integration site family, member 6
+D      100576247 frizzled-2 isoform X1	K02375 FZD5_8; frizzled 5/8
+D      408528 colorectal mutant cancer protein isoform X1	K26734 MCC; colorectal mutant cancer protein
+D      408311 catenin delta-2 isoform X6	K23491 CTNND2; catenin delta-2
+D      409001 disheveled-associated activator of morphogenesis 1 isoform X1	K04512 DAAM; dishevelled associated activator of morphogenesis
+C    04330 Notch signaling pathway [PATH:ame04330]
+D      412243 protein split ends isoform X1	K25100 SPEN; Msx2-interacting protein
+C    04340 Hedgehog signaling pathway
+C    04341 Hedgehog signaling pathway - fly [PATH:ame04341]
+C    04350 TGF-beta signaling pathway [PATH:ame04350]
+D      410776 protein 60A	K16621 BMP7; bone morphogenetic protein 7
+C    04390 Hippo signaling pathway
+C    04391 Hippo signaling pathway - fly [PATH:ame04391]
+D      551265 protein limb expression 1 homolog	K16673 LIX1L; LIX1-like protein
+D      725245 protein eiger isoform X2	K16678 EGR; eiger
+D      413423 hemicentin-2 isoform X1	K16680 ED; echinoid
+D      409904 uncharacterized protein LOC409904 isoform X1	K06091 MPP5; MAGUK p55 subfamily member 5
+D      413502 protein Wnt-1	K03209 WNT1; wingless-type MMTV integration site family, member 1
+C    04392 Hippo signaling pathway - multiple species [PATH:ame04392]
+C    04370 VEGF signaling pathway
+C    04371 Apelin signaling pathway
+C    04630 JAK-STAT signaling pathway
+C    04064 NF-kappa B signaling pathway
+C    04668 TNF signaling pathway
+C    04066 HIF-1 signaling pathway
+C    04068 FoxO signaling pathway [PATH:ame04068]
+D      727091 forkhead box protein O isoform X2	K09408 FOXO3; forkhead box protein O3
+D      724756 uncharacterized protein LOC724756	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      412843 phosphoenolpyruvate carboxykinase [GTP] isoform X2	K01596 E4.1.1.32; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+C    04020 Calcium signaling pathway
+C    04070 Phosphatidylinositol signaling system [PATH:ame04070]
+D      411563 myotubularin-related protein 2 isoform X2	K18081 MTMR1_2; myotubularin-related protein 1/2 [EC:3.1.3.64 3.1.3.95]
+D      413071 eye-specific diacylglycerol kinase isoform X1	K00901 dgkA; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+C    04072 Phospholipase D signaling pathway
+C    04071 Sphingolipid signaling pathway
+C    04024 cAMP signaling pathway
+C    04022 cGMP-PKG signaling pathway
+C    04151 PI3K-Akt signaling pathway
+C    04152 AMPK signaling pathway
+C    04150 mTOR signaling pathway [PATH:ame04150]
+D      725647 40S ribosomal protein S6	K02991 RP-S6e; small subunit ribosomal protein S6e
+D      413502 protein Wnt-1	K03209 WNT1; wingless-type MMTV integration site family, member 1
+D      413501 protein Wnt-6 isoform X1	K00445 WNT6; wingless-type MMTV integration site family, member 6
+D      100576247 frizzled-2 isoform X1	K02375 FZD5_8; frizzled 5/8
+C    04075 Plant hormone signal transduction
+B  09133 Signaling molecules and interaction
+C    04080 Neuroactive ligand-receptor interaction [PATH:ame04080]
+D      409626 chymotrypsin-2	K01312 PRSS1_2_3; trypsin [EC:3.4.21.4]
+D      413829 diuretic hormone receptor isoform X1	K04578 CRHR1; corticotropin releasing hormone receptor 1
+C    04060 Cytokine-cytokine receptor interaction
+C    04061 Viral protein interaction with cytokine and cytokine receptor
+C    04512 ECM-receptor interaction [PATH:ame04512]
+D      410775 laminin subunit alpha-1 isoform X1	K05637 LAMA1_2; laminin, alpha 1/2
+C    04514 Cell adhesion molecules
+A09140 Cellular Processes
+B  09141 Transport and catabolism
+C    04144 Endocytosis [PATH:ame04144]
+D      413200 fibroblast growth factor receptor homolog 1 isoform X1	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      552486 F-actin-capping protein subunit alpha	K10364 CAPZA; F-actin-capping protein subunit alpha
+C    04145 Phagosome [PATH:ame04145]
+D      412810 V-type proton ATPase 116 kDa subunit a isoform X1	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+C    04142 Lysosome [PATH:ame04142]
+D      412810 V-type proton ATPase 116 kDa subunit a isoform X1	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      409708 glucosylceramidase-like isoform X2	K01201 GBA; glucosylceramidase [EC:3.2.1.45]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      551758 arylsulfatase B isoform X1	K01135 ARSB; arylsulfatase B [EC:3.1.6.12]
+D      552073 arylsulfatase B	K01135 ARSB; arylsulfatase B [EC:3.1.6.12]
+D      724386 NPC intracellular cholesterol transporter 2	K13443 NPC2; Niemann-Pick C2 protein
+D      494509 protein Malvolio isoform X1	K21398 SLC11A2; natural resistance-associated macrophage protein 2
+C    04146 Peroxisome [PATH:ame04146]
+D      411685 ATP-binding cassette sub-family D member 1	K05676 ABCD2; ATP-binding cassette, subfamily D (ALD), member 2 [EC:7.6.2.4]
+D      412541 long-chain-fatty-acid--CoA ligase 1 isoform X3	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      725343 alkyldihydroxyacetonephosphate synthase	K00803 AGPS; alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26]
+C    04140 Autophagy - animal [PATH:ame04140]
+D      408358 RB1-inducible coiled-coil protein 1 isoform X3	K17589 RB1CC1; RB1-inducible coiled-coil protein 1
+C    04138 Autophagy - yeast
+C    04136 Autophagy - other [PATH:ame04136]
+C    04137 Mitophagy - animal [PATH:ame04137]
+D      727091 forkhead box protein O isoform X2	K09408 FOXO3; forkhead box protein O3
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+C    04139 Mitophagy - yeast
+C    04148 Efferocytosis [PATH:ame04148]
+D      409933 glucose transporter type 1 isoform X1	K07299 SLC2A1; MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 1
+B  09143 Cell growth and death
+C    04110 Cell cycle
+C    04111 Cell cycle - yeast
+C    04112 Cell cycle - Caulobacter
+C    04113 Meiosis - yeast
+C    04114 Oocyte meiosis
+C    04210 Apoptosis
+C    04214 Apoptosis - fly [PATH:ame04214]
+D      406084 Ecr; ecdysone receptor isoform A	K14034 NR1H1; ecdysone receptor
+D      408521 Mblk-1; mushroom body large-type Kenyon cell-specific protein 1	K20015 EIP93F; ecdysone-induced protein 93F, isoform B
+D      408754 TNF receptor-associated factor 4 isoform X3	K09848 TRAF4; TNF receptor-associated factor 4
+D      725245 protein eiger isoform X2	K16678 EGR; eiger
+C    04215 Apoptosis - multiple species [PATH:ame04215]
+C    04216 Ferroptosis
+C    04217 Necroptosis
+C    04115 p53 signaling pathway
+C    04218 Cellular senescence
+B  09144 Cellular community - eukaryotes
+C    04510 Focal adhesion
+C    04520 Adherens junction
+C    04530 Tight junction
+C    04540 Gap junction
+C    04550 Signaling pathways regulating pluripotency of stem cells
+B  09145 Cellular community - prokaryotes
+C    02024 Quorum sensing
+C    05111 Biofilm formation - Vibrio cholerae
+C    02025 Biofilm formation - Pseudomonas aeruginosa
+C    02026 Biofilm formation - Escherichia coli
+B  09142 Cell motility
+C    02030 Bacterial chemotaxis
+C    02040 Flagellar assembly
+C    04814 Motor proteins [PATH:ame04814]
+D      413097 dynein heavy chain 12	K10408 DNAH; dynein axonemal heavy chain
+D      552486 F-actin-capping protein subunit alpha	K10364 CAPZA; F-actin-capping protein subunit alpha
+D      552512 uncharacterized protein LOC552512 isoform X1	K17916 KIF16B; kinesin family member 16B
+D      726683 myosin-VIIa isoform X1	K10359 MYO7A; myosin VIIa
+D      409843 myosin heavy chain	K17751 MYH6_7; myosin heavy chain 6/7
+D      408414 tropomyosin-1	K10373 TPM1; tropomyosin 1
+C    04810 Regulation of actin cytoskeleton
+A09150 Organismal Systems
+B  09151 Immune system
+C    04640 Hematopoietic cell lineage
+C    04610 Complement and coagulation cascades
+C    04611 Platelet activation
+C    04613 Neutrophil extracellular trap formation
+C    04620 Toll-like receptor signaling pathway
+C    04624 Toll and Imd signaling pathway [PATH:ame04624]
+D      409051 microtubule-associated protein futsch isoform X1	K10380 ANK; ankyrin
+C    04621 NOD-like receptor signaling pathway
+C    04622 RIG-I-like receptor signaling pathway
+C    04623 Cytosolic DNA-sensing pathway
+C    04625 C-type lectin receptor signaling pathway
+C    04650 Natural killer cell mediated cytotoxicity
+C    04612 Antigen processing and presentation
+C    04660 T cell receptor signaling pathway
+C    04658 Th1 and Th2 cell differentiation
+C    04659 Th17 cell differentiation
+C    04657 IL-17 signaling pathway
+C    04662 B cell receptor signaling pathway
+C    04664 Fc epsilon RI signaling pathway
+C    04666 Fc gamma R-mediated phagocytosis
+C    04670 Leukocyte transendothelial migration
+C    04672 Intestinal immune network for IgA production
+C    04062 Chemokine signaling pathway
+B  09152 Endocrine system
+C    04911 Insulin secretion
+C    04910 Insulin signaling pathway
+C    04922 Glucagon signaling pathway
+C    04923 Regulation of lipolysis in adipocytes
+C    04920 Adipocytokine signaling pathway
+C    03320 PPAR signaling pathway
+C    04929 GnRH secretion
+C    04912 GnRH signaling pathway
+C    04913 Ovarian steroidogenesis
+C    04915 Estrogen signaling pathway
+C    04914 Progesterone-mediated oocyte maturation
+C    04917 Prolactin signaling pathway
+C    04921 Oxytocin signaling pathway
+C    04926 Relaxin signaling pathway
+C    04935 Growth hormone synthesis, secretion and action
+C    04918 Thyroid hormone synthesis
+C    04919 Thyroid hormone signaling pathway
+C    04928 Parathyroid hormone synthesis, secretion and action
+C    04916 Melanogenesis
+C    04924 Renin secretion
+C    04614 Renin-angiotensin system
+C    04925 Aldosterone synthesis and secretion
+C    04927 Cortisol synthesis and secretion
+B  09153 Circulatory system
+C    04260 Cardiac muscle contraction
+C    04261 Adrenergic signaling in cardiomyocytes
+C    04270 Vascular smooth muscle contraction
+B  09154 Digestive system
+C    04970 Salivary secretion
+C    04971 Gastric acid secretion
+C    04972 Pancreatic secretion
+C    04976 Bile secretion
+C    04973 Carbohydrate digestion and absorption
+C    04974 Protein digestion and absorption
+C    04975 Fat digestion and absorption
+C    04979 Cholesterol metabolism
+C    04977 Vitamin digestion and absorption
+C    04978 Mineral absorption
+B  09155 Excretory system
+C    04962 Vasopressin-regulated water reabsorption
+C    04960 Aldosterone-regulated sodium reabsorption
+C    04961 Endocrine and other factor-regulated calcium reabsorption
+C    04964 Proximal tubule bicarbonate reclamation
+C    04966 Collecting duct acid secretion
+B  09156 Nervous system
+C    04724 Glutamatergic synapse
+C    04727 GABAergic synapse
+C    04725 Cholinergic synapse
+C    04728 Dopaminergic synapse
+C    04726 Serotonergic synapse
+C    04720 Long-term potentiation
+C    04730 Long-term depression
+C    04723 Retrograde endocannabinoid signaling
+C    04721 Synaptic vesicle cycle
+C    04722 Neurotrophin signaling pathway
+B  09157 Sensory system
+C    04744 Phototransduction
+C    04745 Phototransduction - fly [PATH:ame04745]
+D      413224 sn1-specific diacylglycerol lipase alpha isoform X1	K13806 DAGL; sn1-specific diacylglycerol lipase [EC:3.1.1.116]
+C    04740 Olfactory transduction
+C    04742 Taste transduction
+C    04750 Inflammatory mediator regulation of TRP channels
+B  09158 Development and regeneration
+C    04320 Dorso-ventral axis formation [PATH:ame04320]
+D      412916 ETS-like protein pointed isoform X1	K02678 ETS1; C-ets-1
+D      724704 cytoplasmic polyadenylation element-binding protein 2	K02602 CPEB; cytoplasmic polyadenylation element-binding protein
+D      408936 RNA-binding protein squid isoform X2	K03102 SQD; squid
+C    04360 Axon guidance
+C    04361 Axon regeneration
+C    04380 Osteoclast differentiation
+B  09149 Aging
+C    04211 Longevity regulating pathway
+C    04212 Longevity regulating pathway - worm
+C    04213 Longevity regulating pathway - multiple species [PATH:ame04213]
+D      727091 forkhead box protein O isoform X2	K09408 FOXO3; forkhead box protein O3
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      724405 protein lethal(2)essential for life	K09542 CRYAB; crystallin, alpha B
+D      411296 silk gland factor 1	K08035 FOXA2; forkhead box protein A2, hepatocyte nuclear factor 3-beta
+B  09159 Environmental adaptation
+C    04710 Circadian rhythm
+C    04713 Circadian entrainment
+C    04711 Circadian rhythm - fly [PATH:ame04711]
+D      725614 aryl hydrocarbon receptor nuclear translocator-like protein 1 isoform X1	K02296 ARNTL; aryl hydrocarbon receptor nuclear translocator-like protein 1
+C    04712 Circadian rhythm - plant
+C    04714 Thermogenesis
+C    04626 Plant-pathogen interaction
+A09160 Human Diseases
+B  09161 Cancer: overview
+C    05200 Pathways in cancer
+C    05202 Transcriptional misregulation in cancer
+C    05206 MicroRNAs in cancer
+C    05205 Proteoglycans in cancer
+C    05204 Chemical carcinogenesis - DNA adducts
+C    05207 Chemical carcinogenesis - receptor activation
+C    05208 Chemical carcinogenesis - reactive oxygen species
+C    05203 Viral carcinogenesis
+C    05230 Central carbon metabolism in cancer
+C    05231 Choline metabolism in cancer
+C    05235 PD-L1 expression and PD-1 checkpoint pathway in cancer
+B  09162 Cancer: specific types
+C    05210 Colorectal cancer
+C    05212 Pancreatic cancer
+C    05225 Hepatocellular carcinoma
+C    05226 Gastric cancer
+C    05214 Glioma
+C    05216 Thyroid cancer
+C    05221 Acute myeloid leukemia
+C    05220 Chronic myeloid leukemia
+C    05217 Basal cell carcinoma
+C    05218 Melanoma
+C    05211 Renal cell carcinoma
+C    05219 Bladder cancer
+C    05215 Prostate cancer
+C    05213 Endometrial cancer
+C    05224 Breast cancer
+C    05222 Small cell lung cancer
+C    05223 Non-small cell lung cancer
+B  09172 Infectious disease: viral
+C    05166 Human T-cell leukemia virus 1 infection
+C    05170 Human immunodeficiency virus 1 infection
+C    05161 Hepatitis B
+C    05160 Hepatitis C
+C    05171 Coronavirus disease - COVID-19
+C    05164 Influenza A
+C    05162 Measles
+C    05168 Herpes simplex virus 1 infection
+C    05163 Human cytomegalovirus infection
+C    05167 Kaposi sarcoma-associated herpesvirus infection
+C    05169 Epstein-Barr virus infection
+C    05165 Human papillomavirus infection
+B  09171 Infectious disease: bacterial
+C    05110 Vibrio cholerae infection
+C    05120 Epithelial cell signaling in Helicobacter pylori infection
+C    05130 Pathogenic Escherichia coli infection
+C    05132 Salmonella infection
+C    05131 Shigellosis
+C    05135 Yersinia infection
+C    05133 Pertussis
+C    05134 Legionellosis
+C    05150 Staphylococcus aureus infection
+C    05152 Tuberculosis
+C    05100 Bacterial invasion of epithelial cells
+B  09174 Infectious disease: parasitic
+C    05146 Amoebiasis
+C    05144 Malaria
+C    05145 Toxoplasmosis
+C    05140 Leishmaniasis
+C    05142 Chagas disease
+C    05143 African trypanosomiasis
+B  09163 Immune disease
+C    05310 Asthma
+C    05322 Systemic lupus erythematosus
+C    05323 Rheumatoid arthritis
+C    05320 Autoimmune thyroid disease
+C    05321 Inflammatory bowel disease
+C    05330 Allograft rejection
+C    05332 Graft-versus-host disease
+C    05340 Primary immunodeficiency
+B  09164 Neurodegenerative disease
+C    05010 Alzheimer disease
+C    05012 Parkinson disease
+C    05014 Amyotrophic lateral sclerosis
+C    05016 Huntington disease
+C    05017 Spinocerebellar ataxia
+C    05020 Prion disease
+C    05022 Pathways of neurodegeneration - multiple diseases
+B  09165 Substance dependence
+C    05030 Cocaine addiction
+C    05031 Amphetamine addiction
+C    05032 Morphine addiction
+C    05033 Nicotine addiction
+C    05034 Alcoholism
+B  09166 Cardiovascular disease
+C    05417 Lipid and atherosclerosis
+C    05418 Fluid shear stress and atherosclerosis
+C    05410 Hypertrophic cardiomyopathy
+C    05412 Arrhythmogenic right ventricular cardiomyopathy
+C    05414 Dilated cardiomyopathy
+C    05415 Diabetic cardiomyopathy
+C    05416 Viral myocarditis
+B  09167 Endocrine and metabolic disease
+C    04930 Type II diabetes mellitus
+C    04940 Type I diabetes mellitus
+C    04950 Maturity onset diabetes of the young
+C    04936 Alcoholic liver disease
+C    04932 Non-alcoholic fatty liver disease
+C    04931 Insulin resistance
+C    04933 AGE-RAGE signaling pathway in diabetic complications
+C    04934 Cushing syndrome
+B  09175 Drug resistance: antimicrobial
+C    01501 beta-Lactam resistance
+C    01502 Vancomycin resistance
+C    01503 Cationic antimicrobial peptide (CAMP) resistance
+B  09176 Drug resistance: antineoplastic
+C    01521 EGFR tyrosine kinase inhibitor resistance
+C    01524 Platinum drug resistance
+C    01523 Antifolate resistance
+C    01522 Endocrine resistance
+A09180 Brite Hierarchies
+B  09181 Protein families: metabolism
+C    01000 Enzymes [BR:ame01000]
+C    01001 Protein kinases [BR:ame01001]
+D      413510 SNF-related serine/threonine-protein kinase	K08802 SNRK; SNF related kinase [EC:2.7.11.1]
+D      726069 atrial natriuretic peptide receptor 1 isoform X4	K12323 ANPRA; atrial natriuretic peptide receptor A [EC:4.6.1.2]
+D      413200 fibroblast growth factor receptor homolog 1 isoform X1	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+D      408489 EphR; Eph receptor tyrosine kinase precursor	K05110 EPHB1; Eph receptor B1 [EC:2.7.10.1]
+C    01009 Protein phosphatases and associated proteins [BR:ame01009]
+D      409928 RNA polymerase II elongation factor Ell isoform X2	K15183 ELL; RNA polymerase II elongation factor ELL
+D      408368 adenosylhomocysteinase	K01251 AHCY; adenosylhomocysteinase [EC:3.13.2.1]
+D      408358 RB1-inducible coiled-coil protein 1 isoform X3	K17589 RB1CC1; RB1-inducible coiled-coil protein 1
+D      408337 uncharacterized protein LOC408337 isoform X7	K17598 SYTL; synaptotagmin-like protein
+D      726544 serine/threonine-protein phosphatase 4 regulatory subunit 1 isoform X1	K15424 PPP4R1; serine/threonine-protein phosphatase 4 regulatory subunit 1
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      413569 tyrosine-protein phosphatase Lar isoform X1	K05695 PTPRF; receptor-type tyrosine-protein phosphatase F [EC:3.1.3.48]
+D      100578579 uncharacterized protein LOC100578579 isoform X2	K02374 PTPN13; tyrosine-protein phosphatase non-receptor type 13
+D      410442 DNA helicase MCM9 isoform X1	K18078 PTPDC1; protein tyrosine phosphatase domain-containing protein 1 [EC:3.1.3.-]
+D      411563 myotubularin-related protein 2 isoform X2	K18081 MTMR1_2; myotubularin-related protein 1/2 [EC:3.1.3.64 3.1.3.95]
+C    01002 Peptidases and inhibitors [BR:ame01002]
+D      411453 Calpb; calpain-B	K08585 CAPNN; calpain, invertebrate [EC:3.4.22.-]
+D      406107 Gfat2; glutamine:fructose-6-phosphate aminotransferase 1	K00820 glmS; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+D      408678 OTU domain-containing protein 7B	K11860 OTUD7A_B; OTU domain-containing protein 7 [EC:3.4.19.12]
+D      551180 aminopeptidase N	K11140 ANPEP; aminopeptidase N [EC:3.4.11.2]
+D      412890 A disintegrin and metalloproteinase with thrombospondin motifs 3	K08619 ADAMTS3; a disintegrin and metalloproteinase with thrombospondin motifs 3 [EC:3.4.24.-]
+D      410380 neprilysin-2 isoform X2	K08635 MMEL1; neprilysin [EC:3.4.24.11]
+D      408500 endothelin-converting enzyme homolog isoform X1	K08635 MMEL1; neprilysin [EC:3.4.24.11]
+D      551524 zinc carboxypeptidase	K08779 CPA1; carboxypeptidase A1 [EC:3.4.17.1]
+D      410627 putative aminopeptidase W07G4.4 isoform X1	K01255 CARP; leucyl aminopeptidase [EC:3.4.11.1]
+D      409231 dipeptidase 1 isoform X2	K01273 DPEP; membrane dipeptidase [EC:3.4.13.19]
+D      410149 carboxypeptidase Q	K01302 CPQ; carboxypeptidase Q [EC:3.4.17.-]
+D      409626 chymotrypsin-2	K01312 PRSS1_2_3; trypsin [EC:3.4.21.4]
+D      726352 transmembrane protease serine 11B-like protein	K09640 TMPRSS9; transmembrane protease serine 9 [EC:3.4.21.-]
+D      724971 uncharacterized protein LOC724971 isoform X2	K23489 SVH1; HGF/MSP/plasminogen-like protein
+D      408618 furin-like protease 2 isoform X1	K08654 PCSK5; proprotein convertase subtilisin/kexin type 5 [EC:3.4.21.-]
+D      409162 retinoid-inducible serine carboxypeptidase	K09646 SCPEP1; serine carboxypeptidase 1 [EC:3.4.16.-]
+D      551733 amyloid-beta-like protein	K04520 APP; amyloid beta A4 protein
+C    01003 Glycosyltransferases [BR:ame01003]
+D      410470 putative polypeptide N-acetylgalactosaminyltransferase 9 isoform X1	K00710 GALNT; polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+D      408787 transmembrane and TPR repeat-containing protein CG4341 isoform X2	K23424 TMTC; protein O-mannosyl-transferase [EC:2.4.1.-]
+D      411021 UDP-glucuronosyltransferase 2B18 isoform X1	K00699 UGT; glucuronosyltransferase [EC:2.4.1.17]
+D      550998 carbohydrate sulfotransferase 11	K01017 CHST11; chondroitin 4-sulfotransferase 11 [EC:2.8.2.5]
+C    01005 Lipopolysaccharide biosynthesis proteins
+C    01011 Peptidoglycan biosynthesis and degradation proteins
+C    01004 Lipid biosynthesis proteins [BR:ame01004]
+D      100576797 acyl-CoA Delta(11) desaturase isoform X1	K00507 SCD; stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1]
+D      552475 ACSF2; acyl-CoA synthetase family member 2, mitochondrial precursor	K23617 ACSF2; medium-chain acyl-CoA ligase, mitochondrial [EC:6.2.1.2]
+D      412541 long-chain-fatty-acid--CoA ligase 1 isoform X3	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+C    01008 Polyketide biosynthesis proteins
+C    01006 Prenyltransferases [BR:ame01006]
+D      724336 tRNA dimethylallyltransferase isoform X2	K00791 miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]
+D      725592 protein prenyltransferase alpha subunit repeat-containing protein 1	K14137 PTAR1; protein prenyltransferase alpha subunit repeat containing protein 1
+C    01007 Amino acid related enzymes [BR:ame01007]
+D      410583 ornithine aminotransferase	K00819 rocD; ornithine--oxo-acid transaminase [EC:2.6.1.13]
+D      412670 probable phosphoserine aminotransferase	K00831 serC; phosphoserine aminotransferase [EC:2.6.1.52]
+C    00199 Cytochrome P450 [BR:ame00199]
+D      409469 Cyp4g11; cytochrome P450 4G11	K15001 CYP4; cytochrome P450 family 4 [EC:1.14.-.-]
+D      410492 cytochrome P450 9e2	K15003 CYP9; cytochrome P450 family 9 [EC:1.14.-.-]
+C    00194 Photosynthesis proteins
+B  09182 Protein families: genetic information processing
+C    03000 Transcription factors [BR:ame03000]
+D      100576222 heart- and neural crest derivatives-expressed protein 1	K18486 HAND2; heart-and neural crest derivatives-expressed protein 2
+D      100576700 class A basic helix-loop-helix protein 15 isoform X1	K08040 BHLHB8; class B basic helix-loop-helix protein 8
+D      725614 aryl hydrocarbon receptor nuclear translocator-like protein 1 isoform X1	K02296 ARNTL; aryl hydrocarbon receptor nuclear translocator-like protein 1
+D      406084 Ecr; ecdysone receptor isoform A	K14034 NR1H1; ecdysone receptor
+D      413318 metastasis-associated protein MTA3 isoform X1	K11660 MTA; metastasis-associated protein MTA
+D      100576307 oocyte zinc finger protein XlCOF8.4 isoform X2	K09210 KLF15; krueppel-like factor 15
+D      410918 protein tramtrack	K09237 TTK; tramtrack
+D      724604 LOW QUALITY PROTEIN: uncharacterized protein LOC724604	K09228 KRAB; KRAB domain-containing zinc finger protein
+D      102655124 zinc finger protein 135	K09228 KRAB; KRAB domain-containing zinc finger protein
+D      100578924 zinc finger protein 271	K09228 KRAB; KRAB domain-containing zinc finger protein
+D      724511 zinc finger protein 665	K09228 KRAB; KRAB domain-containing zinc finger protein
+D      725754 uncharacterized protein LOC725754 isoform X2	K25209 CASZ1; zinc finger protein castor
+D      725076 CCHC-type zinc finger protein CG3800	K09250 CNBP; cellular nucleic acid-binding protein
+D      100577942 homeobox protein Nkx-2.5-like	K09995 NKX3-2; homeobox protein Nkx-3.2
+D      100576993 zinc finger protein 1 isoform X1	K23560 ZEB2; zinc finger homeobox protein 2
+D      551460 homeobox protein cut isoform X9	K09313 CUTL; homeobox protein cut-like
+D      411296 silk gland factor 1	K08035 FOXA2; forkhead box protein A2, hepatocyte nuclear factor 3-beta
+D      724315 forkhead box protein D3	K09397 FOXD; forkhead box protein D
+D      727091 forkhead box protein O isoform X2	K09408 FOXO3; forkhead box protein O3
+D      412916 ETS-like protein pointed isoform X1	K02678 ETS1; C-ets-1
+D      408354 nuclear factor of activated T-cells 5 isoform X4	K17335 NFAT5; nuclear factor of activated T-cells 5
+D      412296 deformed epidermal autoregulatory factor 1	K23041 DEAF1; deformed epidermal autoregulatory factor 1
+C    03021 Transcription machinery [BR:ame03021]
+D      409928 RNA polymerase II elongation factor Ell isoform X2	K15183 ELL; RNA polymerase II elongation factor ELL
+D      100577139 AF4/FMR2 family member 4 isoform X3	K15195 AFF3; AF4/FMR2 family member 3
+D      725552 DNA-directed RNA polymerase III subunit RPC1 isoform X2	K03018 RPC1; DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+C    03019 Messenger RNA biogenesis [BR:ame03019]
+D      552724 zinc finger CCCH domain-containing protein 13	K22909 ZC3H13; zinc finger CCCH domain-containing protein 13
+D      411557 terminal nucleotidyltransferase 5C isoform X2	K23034 TENT5C; terminal nucleotidyltransferase 5C [EC:2.7.7.19]
+D      551707 RNA-binding protein with serine-rich domain 1	K14325 RNPS1; RNA-binding protein with serine-rich domain 1
+D      410972 nuclear pore complex protein Nup54 isoform X1	K14308 NUP54; nuclear pore complex protein Nup54
+D      410343 nuclear pore complex protein Nup93	K14309 NUP93; nuclear pore complex protein Nup93
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+D      724704 cytoplasmic polyadenylation element-binding protein 2	K02602 CPEB; cytoplasmic polyadenylation element-binding protein
+D      412296 deformed epidermal autoregulatory factor 1	K23041 DEAF1; deformed epidermal autoregulatory factor 1
+D      552709 polypyrimidine tract-binding protein 2 isoform X1	K13218 PTBP1; polypyrimidine tract-binding protein 1
+D      408936 RNA-binding protein squid isoform X2	K03102 SQD; squid
+D      100578925 protein Tob1	K14443 TOB; protein Tob/BTG
+D      409384 heat shock protein 60A	K04077 groEL; chaperonin GroEL [EC:5.6.1.7]
+C    03041 Spliceosome [BR:ame03041]
+D      727008 probable ATP-dependent RNA helicase DDX46	K12811 DDX46; ATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13]
+D      408387 HIV Tat-specific factor 1 homolog	K13093 HTATSF1; HIV Tat-specific factor 1
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      725211 uncharacterized protein LOC725211	K12737 SDCCAG10; peptidyl-prolyl cis-trans isomerase SDCCAG10 [EC:5.2.1.8]
+D      408936 RNA-binding protein squid isoform X2	K03102 SQD; squid
+D      100577498 trichohyalin isoform X2	K13172 SRRM2; serine/arginine repetitive matrix protein 2
+D      551587 RNA-binding protein 24 isoform X2	K25006 RBM24_38; RNA-binding protein 24/38
+D      408529 Adar; adenosine deaminase acting on RNA	K13194 ADARB; double stranded RNA-specific editase B [EC:3.5.-.-]
+D      410951 RNA binding protein fox-1 homolog 2 isoform X2	K14946 RBFOX; RNA binding protein fox-1
+D      552046 zinc finger RNA-binding protein isoform X1	K13203 ZFR; zinc finger RNA-binding protein
+D      408346 NKAP family protein CG6066	K25931 NKAP; NF-kappa-B-activating protein
+D      551987 putative RNA-binding protein Luc7-like 2 isoform X2	K13212 LUC7L2; RNA-binding protein Luc7-like 2
+D      552709 polypyrimidine tract-binding protein 2 isoform X1	K13218 PTBP1; polypyrimidine tract-binding protein 1
+C    03011 Ribosome [BR:ame03011]
+D      725647 40S ribosomal protein S6	K02991 RP-S6e; small subunit ribosomal protein S6e
+D      408526 60S ribosomal protein L4	K02930 RP-L4e; large subunit ribosomal protein L4e
+D      113219341 small subunit ribosomal RNA	K01979 SSUrRNA; small subunit 18S ribosomal RNA
+D      113219383 large subunit ribosomal RNA	K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+C    03009 Ribosome biogenesis [BR:ame03009]
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      413940 importin-9 isoform X1	K20224 IPO9; importin-9
+D      409796 eukaryotic translation initiation factor 3 subunit J	K03245 EIF3J; translation initiation factor 3 subunit J
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+D      412221 proliferation-associated protein 2G4	K26736 PA2G4; ERBB-3 binding protein
+C    03016 Transfer RNA biogenesis [BR:ame03016]
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      724336 tRNA dimethylallyltransferase isoform X2	K00791 miaA; tRNA dimethylallyltransferase [EC:2.5.1.75]
+C    03012 Translation factors [BR:ame03012]
+D      409796 eukaryotic translation initiation factor 3 subunit J	K03245 EIF3J; translation initiation factor 3 subunit J
+C    03110 Chaperones and folding catalysts [BR:ame03110]
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      551275 T-complex protein 1 subunit delta	K09496 CCT4; T-complex protein 1 subunit delta
+D      409384 heat shock protein 60A	K04077 groEL; chaperonin GroEL [EC:5.6.1.7]
+D      724405 protein lethal(2)essential for life	K09542 CRYAB; crystallin, alpha B
+D      113219230 protein canopy homolog 3	K22816 CNPY3_4; protein canopy 3/4
+D      408618 furin-like protease 2 isoform X1	K08654 PCSK5; proprotein convertase subtilisin/kexin type 5 [EC:3.4.21.-]
+D      551524 zinc carboxypeptidase	K08779 CPA1; carboxypeptidase A1 [EC:3.4.17.1]
+D      726818 beta-hexosaminidase subunit beta	K12373 HEXA_B; hexosaminidase [EC:3.2.1.52]
+D      725211 uncharacterized protein LOC725211	K12737 SDCCAG10; peptidyl-prolyl cis-trans isomerase SDCCAG10 [EC:5.2.1.8]
+C    04131 Membrane trafficking [BR:ame04131]
+D      408337 uncharacterized protein LOC408337 isoform X7	K17598 SYTL; synaptotagmin-like protein
+D      408653 calcium-dependent secretion activator isoform X3	K19933 CADPS; calcium-dependent secretion activator
+D      725782 alpha-actinin	K05699 ACTN1_4; actinin alpha 1/4
+D      413310 F-actin-monooxygenase Mical isoform X1	K19947 MICAL; F-actin monooxygenase [EC:1.14.13.225]
+D      724747 otoferlin isoform X1	K19949 OTOF; otoferlin
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      552604 SLIT-ROBO Rho GTPase-activating protein 1 isoform X1	K07526 SRGAP; SLIT-ROBO Rho GTPase activating protein
+D      409748 protein kinase C and casein kinase substrate in neurons protein 2 isoform X1	K20123 PACSIN; protein kinase C and casein kinase substrate in neurons protein
+D      727000 protein sprint isoform X1	K23687 RIN2_3; Ras and Rab interactor 2/3
+D      408504 protein FAM160B1 isoform X1	K26421 FHIP2; FHF complex subunit HOOK interacting protein 2
+D      413998 lateral signaling target protein 2 homolog	K24780 ZFYVE28; lateral signaling target protein 2
+D      552486 F-actin-capping protein subunit alpha	K10364 CAPZA; F-actin-capping protein subunit alpha
+D      408333 uncharacterized protein LOC408333 isoform X1	K20315 ARHGAP21_23; Rho GTPase-activating protein 21/23
+D      551180 aminopeptidase N	K11140 ANPEP; aminopeptidase N [EC:3.4.11.2]
+D      725057 coatomer subunit beta	K17301 COPB1; coatomer subunit beta
+D      408427 piezo-type mechanosensitive ion channel component isoform X1	K22128 PIEZO1_2; piezo-type mechanosensitive ion channel component 1/2
+D      408358 RB1-inducible coiled-coil protein 1 isoform X3	K17589 RB1CC1; RB1-inducible coiled-coil protein 1
+D      413117 proton-coupled amino acid transporter-like protein pathetic	K14209 SLC36A; solute carrier family 36 (proton-coupled amino acid transporter)
+D      726683 myosin-VIIa isoform X1	K10359 MYO7A; myosin VIIa
+D      410706 rho GTPase-activating protein 7 isoform X1	K20632 DLC; deleted in liver cancer protein
+D      413562 rho guanine nucleotide exchange factor osg-1 isoform X1	K20689 ARHGEF17; Rho guanine nucleotide exchange factor 17
+C    04121 Ubiquitin system [BR:ame04121]
+D      410133 PDZ domain-containing RING finger protein 4	K15682 PDZRN3_4; ligand of Numb protein X 3/4 [EC:2.3.2.27]
+D      551328 E3 ubiquitin-protein ligase RNF19A isoform X1	K11972 RNF19A; E3 ubiquitin-protein ligase RNF19A [EC:2.3.2.31]
+D      410237 uncharacterized protein LOC410237 isoform X1	K11974 RNF31; E3 ubiquitin-protein ligase RNF31 [EC:2.3.2.31]
+D      725092 E3 ubiquitin-protein ligase Rnf220 isoform X4	K25174 RNF220; E3 ubiquitin-protein ligase RNF220 [EC:2.3.2.27]
+D      551558 microtubule-associated protein 1B isoform X1	K06084 LMO7; F-box protein 20
+D      100578031 BTB/POZ domain-containing protein 6-B isoform X4	K10478 BTBD3_6; BTB/POZ domain-containing protein 3/6
+D      726667 armadillo repeat-containing protein 8 isoform X1	K23336 ARMC8; armadillo repeat-containing protein 8
+D      408678 OTU domain-containing protein 7B	K11860 OTUD7A_B; OTU domain-containing protein 7 [EC:3.4.19.12]
+C    03051 Proteasome [BR:ame03051]
+D      409699 26S proteasome non-ATPase regulatory subunit 1-like	K03032 PSMD1; 26S proteasome regulatory subunit N2
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+C    03032 DNA replication proteins [BR:ame03032]
+D      113218519 uncharacterized protein LOC113218519 isoform X1	K21777 CCNB; G2/mitotic-specific cyclin-B, other
+C    03036 Chromosome and associated proteins [BR:ame03036]
+D      408464 protein HGV2	K11291 NASP; nuclear autoantigenic sperm protein
+D      411539 KAT8 regulatory NSL complex subunit 1	K18400 KANSL1; KAT8 regulatory NSL complex subunit 1
+D      408944 probable JmjC domain-containing histone demethylation protein 2C isoform X1	K15601 KDM3; [histone H3]-dimethyl-L-lysine9 demethylase [EC:1.14.11.65]
+D      412243 protein split ends isoform X1	K25100 SPEN; Msx2-interacting protein
+D      100578774 LOW QUALITY PROTEIN: centrosomal protein of 164 kDa	K16462 CEP164; centrosomal protein CEP164
+D      100577717 uncharacterized protein LOC100577717 isoform X1	K01047 PLA2G; secretory phospholipase A2 [EC:3.1.1.4]
+D      113218519 uncharacterized protein LOC113218519 isoform X1	K21777 CCNB; G2/mitotic-specific cyclin-B, other
+D      408390 ankyrin repeat domain-containing protein 6 isoform X1	K21435 ANKRD6; ankyrin repeat domain-containing protein 6
+D      408563 centrosomin isoform X2	K16718 CNN; centrosomin
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      724756 uncharacterized protein LOC724756	K04402 GADD45; growth arrest and DNA-damage-inducible protein
+D      551356 uncharacterized protein LOC551356 isoform X1	K19326 SYNE1; nesprin-1
+D      408685 inner centromere protein isoform X3	K16806 MAP7D1; MAP7 domain-containing protein 1
+D      410767 Nedd9; enhancer of filamentation 1	K16832 NEDD9; enhancer of filamentation 1
+D      551071 bromodomain adjacent to zinc finger domain protein 2B isoform X9	K26167 BAZ2B; bromodomain adjacent to zinc finger domain protein 2B
+D      413318 metastasis-associated protein MTA3 isoform X1	K11660 MTA; metastasis-associated protein MTA
+D      100578006 inorganic pyrophosphatase	K11726 NURF38; nucleosome-remodeling factor 38 kDa subunit [EC:3.6.1.1]
+C    03400 DNA repair and recombination proteins [BR:ame03400]
+D      726544 serine/threonine-protein phosphatase 4 regulatory subunit 1 isoform X1	K15424 PPP4R1; serine/threonine-protein phosphatase 4 regulatory subunit 1
+D      102654398 uncharacterized protein LOC102654398	K10886 XRCC4; DNA-repair protein XRCC4
+D      408725 protein sickie	K19483 NAV2; neuron navigator 2 [EC:5.6.2.4]
+D      408694 plastin-2 isoform X1	K17336 PLS3; plastin-3
+C    03029 Mitochondrial biogenesis [BR:ame03029]
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      413186 mitochondrial pyruvate carrier 3	K22139 MPC2; mitochondrial pyruvate carrier 2
+D      409384 heat shock protein 60A	K04077 groEL; chaperonin GroEL [EC:5.6.1.7]
+D      408358 RB1-inducible coiled-coil protein 1 isoform X3	K17589 RB1CC1; RB1-inducible coiled-coil protein 1
+B  09183 Protein families: signaling and cellular processes
+C    02000 Transporters [BR:ame02000]
+D      409897 probable multidrug resistance-associated protein lethal(2)03659 isoform X1	K05673 ABCC4; ATP-binding cassette, subfamily C (CFTR/MRP), member 4
+D      411685 ATP-binding cassette sub-family D member 1	K05676 ABCD2; ATP-binding cassette, subfamily D (ALD), member 2 [EC:7.6.2.4]
+D      409933 glucose transporter type 1 isoform X1	K07299 SLC2A1; MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 1
+D      409899 putative sodium-dependent multivitamin transporter	K14388 SLC5A8_12; solute carrier family 5 (sodium-coupled monocarboxylate transporter), member 8/12
+D      494509 protein Malvolio isoform X1	K21398 SLC11A2; natural resistance-associated macrophage protein 2
+D      409650 solute carrier organic anion transporter family member 2A1	K14356 SLCO5A; solute carrier organic anion transporter family, member 5A
+D      107965038 zinc transporter 2 isoform X1	K14689 SLC30A2; solute carrier family 30 (zinc transporter), member 2
+D      413117 proton-coupled amino acid transporter-like protein pathetic	K14209 SLC36A; solute carrier family 36 (proton-coupled amino acid transporter)
+D      410862 solute carrier family 41 member 3 isoform X1	K15122 SLC41A; solute carrier family 41
+D      724285 choline transporter-like protein 1 isoform X1	K06515 SLC44A1; solute carrier family 44 (choline transporter-like protein), member 1
+D      107965219 feline leukemia virus subgroup C receptor-related protein 2	K08220 FLVCR; MFS transporter, FLVCR family, feline leukemia virus subgroup C receptor-related protein
+D      413186 mitochondrial pyruvate carrier 3	K22139 MPC2; mitochondrial pyruvate carrier 2
+D      408478 facilitated trehalose transporter Tret1	K14258 TRET1; facilitated trehalose transporter
+D      411764 bestrophin-4 isoform X1	K22204 BEST; bestrophin, other
+D      724386 NPC intracellular cholesterol transporter 2	K13443 NPC2; Niemann-Pick C2 protein
+C    02044 Secretion system [BR:ame02044]
+C    02042 Bacterial toxins [BR:ame02042]
+C    02022 Two-component system
+C    02035 Bacterial motility proteins
+C    03037 Cilium and associated proteins [BR:ame03037]
+D      551275 T-complex protein 1 subunit delta	K09496 CCT4; T-complex protein 1 subunit delta
+D      726683 myosin-VIIa isoform X1	K10359 MYO7A; myosin VIIa
+D      413213 tubulin polyglutamylase TTLL4	K16601 TTLL4; tubulin polyglutamylase TTLL4 [EC:6.3.2.62]
+D      100578774 LOW QUALITY PROTEIN: centrosomal protein of 164 kDa	K16462 CEP164; centrosomal protein CEP164
+D      413097 dynein heavy chain 12	K10408 DNAH; dynein axonemal heavy chain
+C    04812 Cytoskeleton proteins [BR:ame04812]
+D      726683 myosin-VIIa isoform X1	K10359 MYO7A; myosin VIIa
+D      409843 myosin heavy chain	K17751 MYH6_7; myosin heavy chain 6/7
+D      409001 disheveled-associated activator of morphogenesis 1 isoform X1	K04512 DAAM; dishevelled associated activator of morphogenesis
+D      409786 FH1/FH2 domain-containing protein 3 isoform X1	K23939 FHOD3; FH1/FH2 domain-containing protein 3
+D      552486 F-actin-capping protein subunit alpha	K10364 CAPZA; F-actin-capping protein subunit alpha
+D      408414 tropomyosin-1	K10373 TPM1; tropomyosin 1
+D      725782 alpha-actinin	K05699 ACTN1_4; actinin alpha 1/4
+D      411744 spectrin beta chain isoform X1	K06115 SPTB; spectrin beta
+D      413423 hemicentin-2 isoform X1	K16680 ED; echinoid
+D      408694 plastin-2 isoform X1	K17336 PLS3; plastin-3
+D      408897 uncharacterized protein LOC408897 isoform X1	K18625 SHROOM; protein Shroom
+D      409051 microtubule-associated protein futsch isoform X1	K10380 ANK; ankyrin
+D      408779 microtubule-actin cross-linking factor 1 isoform X7	K10382 DST; dystonin
+D      552512 uncharacterized protein LOC552512 isoform X1	K17916 KIF16B; kinesin family member 16B
+D      413097 dynein heavy chain 12	K10408 DNAH; dynein axonemal heavy chain
+D      408504 protein FAM160B1 isoform X1	K26421 FHIP2; FHF complex subunit HOOK interacting protein 2
+D      413213 tubulin polyglutamylase TTLL4	K16601 TTLL4; tubulin polyglutamylase TTLL4 [EC:6.3.2.62]
+C    04147 Exosome [BR:ame04147]
+D      410620 heat shock protein Hsp70Ab-like	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409418 Hsc70-4; heat shock protein cognate 4	K03283 HSPA1_6_8; heat shock 70kDa protein 1/6/8
+D      409231 dipeptidase 1 isoform X2	K01273 DPEP; membrane dipeptidase [EC:3.4.13.19]
+D      552486 F-actin-capping protein subunit alpha	K10364 CAPZA; F-actin-capping protein subunit alpha
+D      409384 heat shock protein 60A	K04077 groEL; chaperonin GroEL [EC:5.6.1.7]
+D      551275 T-complex protein 1 subunit delta	K09496 CCT4; T-complex protein 1 subunit delta
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+D      409377 transitional endoplasmic reticulum ATPase TER94	K13525 VCP; transitional endoplasmic reticulum ATPase
+D      551180 aminopeptidase N	K11140 ANPEP; aminopeptidase N [EC:3.4.11.2]
+D      408414 tropomyosin-1	K10373 TPM1; tropomyosin 1
+D      412541 long-chain-fatty-acid--CoA ligase 1 isoform X3	K01897 ACSL; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+D      409465 uncharacterized protein LOC409465	K17284 PLIN2; perilipin-2
+D      725782 alpha-actinin	K05699 ACTN1_4; actinin alpha 1/4
+D      408368 adenosylhomocysteinase	K01251 AHCY; adenosylhomocysteinase [EC:3.13.2.1]
+D      412810 V-type proton ATPase 116 kDa subunit a isoform X1	K02154 ATPeV0A; V-type H+-transporting ATPase subunit a
+D      100577149 15-hydroxyprostaglandin dehydrogenase [NAD(+)]	K00069 HPGD; 15-hydroxyprostaglandin dehydrogenase (NAD) [EC:1.1.1.141]
+D      724899 lysozyme	K13915 LYZ; lysozyme C [EC:3.2.1.17]
+D      551687 uncharacterized protein LOC551687	K01077 E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]
+D      409626 chymotrypsin-2	K01312 PRSS1_2_3; trypsin [EC:3.4.21.4]
+D      724405 protein lethal(2)essential for life	K09542 CRYAB; crystallin, alpha B
+D      408694 plastin-2 isoform X1	K17336 PLS3; plastin-3
+D      725057 coatomer subunit beta	K17301 COPB1; coatomer subunit beta
+D      409001 disheveled-associated activator of morphogenesis 1 isoform X1	K04512 DAAM; dishevelled associated activator of morphogenesis
+D      409950 fibrillin-1	K17307 FBLN1_2; fibulin 1/2
+C    02048 Prokaryotic defense system [BR:ame02048]
+C    04030 G protein-coupled receptors [BR:ame04030]
+D      413829 diuretic hormone receptor isoform X1	K04578 CRHR1; corticotropin releasing hormone receptor 1
+D      100576247 frizzled-2 isoform X1	K02375 FZD5_8; frizzled 5/8
+C    04050 Cytokine receptors [BR:ame04050]
+D      100577213 tumor necrosis factor receptor superfamily member 4-like	K05142 TNFRSF4; tumor necrosis factor receptor superfamily member 4
+C    04054 Pattern recognition receptors
+C    03310 Nuclear receptors [BR:ame03310]
+D      406084 Ecr; ecdysone receptor isoform A	K14034 NR1H1; ecdysone receptor
+C    04040 Ion channels [BR:ame04040]
+D      412993 glutamate receptor ionotropic	K05313 GRIN; glutamate receptor, ionotropic, invertebrate
+D      408845 protein unc-79 homolog isoform X11	K24014 UNC79; protein unc-79
+D      408680 ryanodine receptor isoform X1	K04962 RYR2; ryanodine receptor 2
+D      102655332 protein orai-2	K16056 ORAI1; calcium release-activated calcium channel protein 1
+D      408427 piezo-type mechanosensitive ion channel component isoform X1	K22128 PIEZO1_2; piezo-type mechanosensitive ion channel component 1/2
+C    04031 GTP-binding proteins [BR:ame04031]
+D      410280 GTP-binding nuclear protein Ran	K07936 RAN; GTP-binding nuclear protein Ran
+C    04052 Cytokines and growth factors [BR:ame04052]
+D      725893 uncharacterized protein LOC725893 isoform X2	K22628 IL16; interleukin 16
+D      410776 protein 60A	K16621 BMP7; bone morphogenetic protein 7
+C    04515 Cell adhesion molecules [BR:ame04515]
+D      726060 basigin	K22653 NPTN; neuroplastin
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+D      551628 protein borderless isoform X1	K22656 IGSF9B; immunoglobulin superfamily member 9B
+D      408786 Dscam; Down syndrome cell adhesion molecule	K06768 DSCAML1; Down syndrome cell adhesion molecule-like protein 1
+C    04090 CD molecules [BR:ame04090]
+D      551180 aminopeptidase N	K11140 ANPEP; aminopeptidase N [EC:3.4.11.2]
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+D      724285 choline transporter-like protein 1 isoform X1	K06515 SLC44A1; solute carrier family 44 (choline transporter-like protein), member 1
+D      100577213 tumor necrosis factor receptor superfamily member 4-like	K05142 TNFRSF4; tumor necrosis factor receptor superfamily member 4
+D      406078 Tsf1; transferrin 1 precursor	K06569 MFI2; melanoma-associated antigen p97
+D      413200 fibroblast growth factor receptor homolog 1 isoform X1	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+C    01504 Antimicrobial resistance genes
+C    00535 Proteoglycans [BR:ame00535]
+D      551733 amyloid-beta-like protein	K04520 APP; amyloid beta A4 protein
+C    00536 Glycosaminoglycan binding proteins [BR:ame00536]
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+D      410776 protein 60A	K16621 BMP7; bone morphogenetic protein 7
+D      413502 protein Wnt-1	K03209 WNT1; wingless-type MMTV integration site family, member 1
+D      413501 protein Wnt-6 isoform X1	K00445 WNT6; wingless-type MMTV integration site family, member 6
+D      413200 fibroblast growth factor receptor homolog 1 isoform X1	K05093 FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]
+D      724319 netrin-A-like	K06843 NTN1; netrin 1
+D      551733 amyloid-beta-like protein	K04520 APP; amyloid beta A4 protein
+C    00537 Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:ame00537]
+D      551687 uncharacterized protein LOC551687	K01077 E3.1.3.1; alkaline phosphatase [EC:3.1.3.1]
+D      410484 trehalase isoform X2	K01194 TREH; alpha,alpha-trehalase [EC:3.2.1.28]
+D      410270 acetylcholinesterase	K01049 ACHE; acetylcholinesterase [EC:3.1.1.7]
+D      409231 dipeptidase 1 isoform X2	K01273 DPEP; membrane dipeptidase [EC:3.4.13.19]
+D      409849 fasciclin-2 isoform X1	K06491 NCAM; neural cell adhesion molecule
+C    04091 Lectins [BR:ame04091]
+C    04990 Domain-containing proteins not elsewhere classified [BR:ame04990]
+D      409655 uncharacterized protein LOC409655 isoform X33	K06086 SORBS1; sorbin and SH3 domain containing protein 1
+D      726829 uncharacterized protein LOC726829 isoform X2	K23712 STAC2; SH3 and cysteine-rich domain-containing protein 2
+D      410895 pleckstrin homology-like domain family B member 1 isoform X1	K23794 PHLDB; pleckstrin homology-like domain family B
+D      551633 pleckstrin homology domain-containing family F member 2	K23858 PLEKHF; pleckstrin homology domain-containing family F
+D      408963 pleckstrin homology domain-containing family G member 5	K19464 PLEKHG5; pleckstrin homology domain-containing family G member 5
+D      410852 protein Fe65 homolog isoform X1	K04530 APBB2; amyloid beta A4 precursor protein-binding family B member 2
+D      410216 reticulocalbin-2	K23899 RCN2; reticulocalbin-2
+D      409367 calcyphosin-like protein	K23909 CAPS; calcyphosin
+D      408680 ryanodine receptor isoform X1	K04962 RYR2; ryanodine receptor 2
+D      409904 uncharacterized protein LOC409904 isoform X1	K06091 MPP5; MAGUK p55 subfamily member 5
+D      724716 sorting nexin-24	K17941 SNX22_24; sorting nexin-22/24
+D      552512 uncharacterized protein LOC552512 isoform X1	K17916 KIF16B; kinesin family member 16B
+D      408727 SET and MYND domain-containing protein 4-like	K24634 SMYD4; SET and MYND domain-containing protein 4 [EC:2.1.1.-]
+D      408797 LOW QUALITY PROTEIN: nidogen-2	K06826 NID; nidogen (entactin)
+D      409950 fibrillin-1	K17307 FBLN1_2; fibulin 1/2
+D      724618 cysteine-rich motor neuron 1 protein	K24518 CRIM1; cysteine-rich motor neuron 1 protein
+D      413676 patched domain-containing protein 3 isoform X1	K24682 PTCHD; patched domain-containing protein
+D      411019 uncharacterized protein LOC411019 isoform X1	K24360 NETO; neuropilin and tolloid-like protein
+B  09185 Viral protein families
+C    03200 Viral proteins
+C    03210 Viral fusion proteins
+B  09184 RNA family
+C    03100 Non-coding RNAs [BR:ame03100]
+D      113219341 small subunit ribosomal RNA	K01979 SSUrRNA; small subunit 18S ribosomal RNA
+D      113219383 large subunit ribosomal RNA	K01982 LSUrRNA; large subunit 28S/25S ribosomal RNA
+A09190 Not Included in Pathway or Brite
+B  09191 Unclassified: metabolism
+C    99980 Enzymes with EC numbers
+D      409097 MsrA; methionine sulphoxide reductase A	K07304 msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+D      551544 peroxidase	K19511 PXDN; peroxidase [EC:1.11.1.7]
+D      726585 dihydroceramide fatty acyl 2-hydroxylase FAH2 isoform X1	K19703 FA2H; 4-hydroxysphinganine ceramide fatty acyl 2-hydroxylase [EC:1.14.18.6]
+D      411132 Tg; transglutaminase	K05619 TGM1; transglutaminase 1 [EC:2.3.2.13]
+D      409425 hemocyte protein-glutamine gamma-glutamyltransferase	K05619 TGM1; transglutaminase 1 [EC:2.3.2.13]
+D      408989 putative glycerol kinase 5	K19583 GK5; putative glycerol kinase 5 [EC:2.7.1.30]
+D      726737 venom acid phosphatase Acph-1	K19283 ACPP; prostatic acid phosphatase [EC:3.1.3.2 3.1.3.5]
+D      410577 acid sphingomyelinase-like phosphodiesterase 3a isoform X1	K01128 SMPDL3; sphingomyelin phosphodiesterase acid-like 3 [EC:3.1.4.-]
+D      410233 extracellular sulfatase SULF-1 homolog isoform X2	K14607 SULF; extracellular sulfatase Sulf [EC:3.1.6.-]
+D      409192 probable phospholipid-transporting ATPase VD	K01530 E7.6.2.1; phospholipid-translocating ATPase [EC:7.6.2.1]
+C    99981 Carbohydrate metabolism
+C    99982 Energy metabolism
+C    99983 Lipid metabolism
+C    99984 Nucleotide metabolism
+C    99985 Amino acid metabolism
+C    99986 Glycan metabolism
+C    99987 Cofactor metabolism
+C    99988 Secondary metabolism
+C    99999 Others
+B  09192 Unclassified: genetic information processing
+C    99973 Transcription
+D      408602 MKL/myocardin-like protein 2 isoform X3	K22525 MKL; MKL/myocardin-like protein
+C    99974 Translation
+C    99975 Protein processing
+C    99976 Replication and repair
+C    99979 Viral proteins
+C    99998 Others
+B  09193 Unclassified: signaling and cellular processes
+C    99977 Transport
+C    99978 Cell growth
+C    99993 Cell motility
+C    99995 Signaling proteins
+D      551619 transmembrane protein 8B	K24576 TMEM8A_B; transmembrane protein 8A/B
+C    99992 Structural proteins
+D      552577 junctophilin-1 isoform X1	K19530 JPH; junctophilin
+C    99994 Others
+B  09194 Poorly characterized
+C    99996 General function prediction only
+C    99997 Function unknown
